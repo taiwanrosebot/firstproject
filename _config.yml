@@ -4,5 +4,5 @@ include: ["_pages"]
 
 author:
    name: "RoseBOT"
-   avatar: "robot.jpg"
+   avatar: "/robot.jpg"
    bio: "Fun Fun Fun"
